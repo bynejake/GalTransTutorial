@@ -1,0 +1,2 @@
+# GalTransTutorial-
+galgame translation tutorial
