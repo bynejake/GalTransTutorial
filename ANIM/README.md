@@ -1,9 +1,11 @@
 ## 文本汉化
+
 [SExtractor](https://github.com/satan53x/SExtractor)
 
 ## exe汉化
 
 ### 1. 修改编码
+
 - 断点 `CreateFontIndirectA`
 
   ![img001](assets/img001.jpg)
