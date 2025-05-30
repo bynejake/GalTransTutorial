@@ -1,2 +1,2 @@
-# GalTransTutorial-
-galgame translation tutorial
+# GalTransTutorial
+- [ANIM](ANIM/readme.md)
