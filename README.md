@@ -1,2 +1,2 @@
 # GalTransTutorial
-- [ANIM](ANIM)
+- [ANIM](ANIM/README.md)
